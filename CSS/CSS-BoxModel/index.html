@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS-Box Model</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background-color: #e6cbf8;
+      }
+
+      .container {
+        background-color: lightblue;
+        border: 3px solid rgb(65, 10, 100);
+        padding: 9px;
+        margin: 15px;
+
+        /* We Can Set Margin/Padding For Top, Bottom, Left And Right Like This */
+        /* padding-top: 79px;
+            padding-bottom: 79px;
+            padding-left: 34px; 
+            padding-right: 79px;*/
+
+        /* Margin = top right bottom left;  */
+        /* Padding = top right bottom left;  */
+
+        /* Padding: 23px 56px 6px 78px;   */
+        /* Margin: 23px 56px 6px 78px;   */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h3>This Is My 1st Heading</h3>
+      <p id="first">
+        I am Prafulla Rawat. I have completed my graduation in Computer
+        Engineering. I have completed my PG-Diploma from CDAC.
+      </p>
+    </div>
+    <div class="container">
+      <h3>This Is My 2nd Heading</h3>
+      <p id="second">
+        I am Prafulla Rawat. I have completed my graduation in Computer
+        Engineering. I have completed my PG-Diploma from CDAC.
+      </p>
+    </div>
+    <div class="container">
+      <h3>This Is My 3rd Heading</h3>
+      <p id="third">
+        I am Prafulla Rawat. I have completed my graduation in Computer
+        Engineering. I have completed my PG-Diploma from CDAC.
+      </p>
+    </div>
+  </body>
+</html>

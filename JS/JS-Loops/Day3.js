@@ -4,10 +4,10 @@ for (let i = 0; i <= 100; i++) {
 }
 
 //While_Loop
-let j = 1;
-while (j <= 10) {
-  console.log(j);
-  j = j + 1;
+let m = 1;
+while (m <= 10) {
+  console.log(m);
+  m = m + 1;
 }
 
 //Do_While

@@ -1,5 +1,5 @@
-var name = "Prafulla";
-console.log(name); //It Will Alert Msg - Prafulla
+var name = "Prafull";
+console.log(name); //It Will Alert Msg - Prafull
 
 var namee;
 console.log(namee); //Undefined - As namee Is Only Declared

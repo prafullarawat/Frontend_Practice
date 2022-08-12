@@ -1,5 +1,5 @@
 //1. Single Element Selector.
 //2. Multi Element Selector.
 
-let element = document.getElementsByClassName("container");
-console.log(element);
+let elem = document.getElementsByClassName("container");
+console.log(elem);

@@ -11,7 +11,7 @@ const surname = "Rawat";
 //surname = "PRawat"; //Uncaught TypeError: Assignment to constant variable.
 console.log(surname);
 
-var city = "Ahmednagar"; //Var -
+var city = "Nagar"; //Var -
 {
   let city = "Shrirampur";
   console.log(city);

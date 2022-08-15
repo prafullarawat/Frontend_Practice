@@ -12,8 +12,8 @@ while (m <= 10) {
 
 //Do_While
 let k = 50;
-let n = 60;
+let t = 60;
 do {
   console.log(k);
   k++;
-} while (k <= n);
+} while (k <= t);

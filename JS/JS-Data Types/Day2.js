@@ -4,7 +4,7 @@ let name = "Prafulla";
 console.log("My String Is " + name);
 console.log("Data Type Is " + typeof name);
 
-let mark = 80;
+let mark = 90;
 console.log("Data Type Is " + typeof marks);
 
 let isDriver = true;

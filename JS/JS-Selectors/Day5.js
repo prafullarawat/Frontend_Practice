@@ -1,5 +1,5 @@
-//1. Single Element Selector.
-//2. Multi Element Selector.
+//1. SingleElementSelector.
+//2. MultiElementSelector.
 
 let elem = document.getElementsByClassName("container");
 console.log(elem);

@@ -1,6 +1,6 @@
-const age = 40;
+const age = 35;
 
-if (age == 40) {
+if (age == 35) {
   console.log("Matching");
 } else {
   console.log("Not Matching");

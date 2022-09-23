@@ -1,6 +1,6 @@
 //For_Loop
-for (let r = 0; r <= 100; r++) {
-  console.log(r);
+for (let c = 0; c <= 100; c++) {
+  console.log(c);
 }
 
 //While_Loop

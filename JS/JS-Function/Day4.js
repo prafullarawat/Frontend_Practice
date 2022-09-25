@@ -8,4 +8,4 @@ function pract(name, name1) {
 
 let name = "Praf";
 
-pract(name, "Hello JavaScript"); //Function Call
+pract(name, "Hello"); //Function Call

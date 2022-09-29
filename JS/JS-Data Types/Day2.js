@@ -1,14 +1,14 @@
 //Primitive Data Types
 
 let name = "Praf";
-console.log("My String Is " + name);
-console.log("Data Type Is " + typeof name);
+console.log("My_String_Is " + name);
+console.log("Data_Type_Is " + typeof name);
 
 let mark = 95;
-console.log("Data Type Is " + typeof marks);
+console.log("Data_Type_Is " + typeof marks);
 
 let isDriver = false;
-console.log("Data Type Is " + typeof isDriver);
+console.log("Data_Type_Is " + typeof isDriver);
 
 let nullVar = null;
 console.log("Data Type Is " + typeof nullVar);

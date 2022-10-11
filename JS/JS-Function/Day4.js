@@ -6,6 +6,6 @@ function pract(name, name1) {
   );
 }
 
-let name = "Prafull";
+let name = "Prafull Rawat";
 
-pract(name, "Hellooo"); //Function Call
+pract(name, "Helloo"); //Function Call

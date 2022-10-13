@@ -1,4 +1,4 @@
-//Primitive Data Types
+//Primitive_Data_Types
 
 let name = "Praf";
 console.log("My_String_Is " + name);

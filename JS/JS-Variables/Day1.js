@@ -4,10 +4,10 @@ console.log(name); //It Will Alert Msg - Prafull
 var namee;
 console.log(namee); //Undefined - As namee Is Only Declared
 
-var marks = 85;
+var marks = 95;
 console.log(name, namee, marks);
 
-const surname = "Rawat";
+const surname = "Rawat Prafulla";
 //surname = "PRawat"; //Uncaught TypeError: Assignment to constant variable.
 console.log(surname);
 

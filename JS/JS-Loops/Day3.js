@@ -5,14 +5,14 @@ for (let c = 1; c <= 10; c++) {
 
 //While_Loop
 let l = 1;
-while (l <= 10) {
+while (l <= 20) {
   console.log(s);
   l = l + 1;
 }
 
 //Do_While
-let k = 70;
-let t = 80;
+let k = 7;
+let t = 8;
 do {
   console.log(k);
   k++;

@@ -4,7 +4,7 @@ let name = "Pra";
 console.log("My_String_Is " + name);
 console.log("Data_Type_Is " + typeof name);
 
-let mark = 9;
+let mark = 91;
 console.log("Data_Type_Is " + typeof marks);
 
 let isDriver = false;
@@ -15,7 +15,7 @@ console.log("Data Type Is " + typeof nullVar);
 
 //Reference Data Types
 
-let myarr = [1, 5, 6, 7];
+let myarr = [1, 5, 9, 8, 6, 7];
 console.log("Data Type Is " + typeof myarr);
 
 //Object Literals

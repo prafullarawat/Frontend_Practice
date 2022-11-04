@@ -1,7 +1,7 @@
 const age = 35;
 
-if (age == 35) {
+if (age == 45) {
   console.log("Matching");
 } else {
-  console.log("Not Matching");
+  console.log("Not_Matching");
 }
